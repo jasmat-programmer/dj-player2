@@ -1,0 +1,22 @@
+body{
+    font-family:'Concert One', cursive;
+}
+.heading{
+    font-size: 35px;
+    width: 100%;
+}
+.note{
+    font-size: 19px;
+    margin-top: -19px;
+    width: 100%;
+}
+
+.name{
+    font-size: 23px;
+    border-radius: 20px;
+}
+canvas{
+    border: solid 5px black;
+    border-radius: 30px;
+    margin-top: 90px;
+}
